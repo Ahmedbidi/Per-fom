@@ -862,11 +862,6 @@ section.lazy-placeholder:after {
 .cid-rSpbAEmhn5 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-rSpbAEmhn5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
-  }
-}
 .cid-rSpbAEmhn5 .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1016,7 +1011,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSpbAEmhn5 .nav-link:hover,
 .cid-rSpbAEmhn5 .dropdown-item:hover {
-  color: #7f1933 !important;
+  color: #073b4c !important;
 }
 .cid-rSFf0G0BKo {
   padding-top: 120px;
@@ -1697,11 +1692,6 @@ section.lazy-placeholder:after {
 .cid-rSGJ8ohBuI .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-rSGJ8ohBuI .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
-  }
-}
 .cid-rSGJ8ohBuI .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1851,7 +1841,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSGJ8ohBuI .nav-link:hover,
 .cid-rSGJ8ohBuI .dropdown-item:hover {
-  color: #7f1933 !important;
+  color: #073b4c !important;
 }
 .cid-rSGJ8wK5nS .main_wrapper {
   position: relative;
@@ -2269,11 +2259,6 @@ section.lazy-placeholder:after {
 .cid-rSGLrp2C1l .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-rSGLrp2C1l .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
-  }
-}
 .cid-rSGLrp2C1l .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2423,7 +2408,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSGLrp2C1l .nav-link:hover,
 .cid-rSGLrp2C1l .dropdown-item:hover {
-  color: #7f1933 !important;
+  color: #073b4c !important;
 }
 .cid-rSGVRwwOWI {
   padding-top: 15px;
@@ -2941,11 +2926,6 @@ section.lazy-placeholder:after {
 .cid-rSGLV7OaBP .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-rSGLV7OaBP .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
-  }
-}
 .cid-rSGLV7OaBP .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3095,7 +3075,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSGLV7OaBP .nav-link:hover,
 .cid-rSGLV7OaBP .dropdown-item:hover {
-  color: #7f1933 !important;
+  color: #073b4c !important;
 }
 .cid-rSGLV99Lcp {
   padding-top: 120px;
